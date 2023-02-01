@@ -7,9 +7,15 @@
 ## Навыки
 
 PyTorch
+
 Librosa
+
 sklearn
+
 NumPy
+
 CatBoost
+
 MatPlotLib
+
 Pandas
