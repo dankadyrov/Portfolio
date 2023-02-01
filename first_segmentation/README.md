@@ -2,7 +2,7 @@
 
 ## Описание проекта
 
-[ADDI project](https://www.kaggle.com/datasets/danilkadyrov/ph2dataset) - этот набор данных двух поражений кожи: родинок и меланом. Нужно сегментировать на узображения эти поражения. Метрикой качества будет IoU score.
+[ADDI project](https://www.kaggle.com/datasets/danilkadyrov/ph2dataset](https://www.fc.up.pt/addi/ph2%20database.html) - этот набор данных двух поражений кожи: родинок и меланом. Нужно сегментировать на узображения эти поражения. Метрикой качества будет IoU score.
 
 ## Библиотеки
 
