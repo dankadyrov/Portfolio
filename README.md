@@ -8,5 +8,5 @@
 | Сегментация на ADDI project  | [first_segmentation](https://github.com/dankadyrov/Portfolio/tree/main/first_segmentation)  |  Сегментация двух видов поражений кожи на датасете ADDI project с помощью SegNet и UNet |   |   |
 | Предсказание вызовов такси  | [taxi_timeseries](https://github.com/dankadyrov/Portfolio/tree/main/taxi_timeseries)  |  Предсказание временного ряда количества вызова такси в данной точке |   |   |
 | Отток клиентов  | [churn_classification](https://github.com/dankadyrov/Portfolio/tree/main/churn_classification)  |  Предсказание оттока клиентов телефонной компании |   |   |
-| Детекция масок | [face_mask_detection](https://github.com/dankadyrov/Portfolio/tree/main/churn_classification)  |  Детекция людей с масками на изображении |   |   |
-| Отток клиентов  | [churn_classification](https://github.com/dankadyrov/Portfolio/tree/main/churn_classification)  |  Предсказание оттока клиентов телефонной компании |   |   |
+| Детекция масок | [face_mask_detection](https://github.com/dankadyrov/Portfolio/tree/main/face_mask_detection)  |  Детекция людей с масками на изображении |   |   |
+| Отток клиентов  | [toxic_comments_classification](https://github.com/dankadyrov/Portfolio/tree/main/churn_classification)  |  Предсказание оттока клиентов телефонной компании |   |   |
