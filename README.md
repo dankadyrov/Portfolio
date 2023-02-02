@@ -9,4 +9,4 @@
 | Предсказание вызовов такси  | [taxi_timeseries](https://github.com/dankadyrov/Portfolio/tree/main/taxi_timeseries)  |  Предсказание временного ряда количества вызова такси в данной точке |   |   |
 | Отток клиентов  | [churn_classification](https://github.com/dankadyrov/Portfolio/tree/main/churn_classification)  |  Предсказание оттока клиентов телефонной компании |   |   |
 | Детекция масок | [face_mask_detection](https://github.com/dankadyrov/Portfolio/tree/main/face_mask_detection)  |  Детекция людей с масками на изображении SSD300 |   |   |
-| Отток клиентов  | [toxic_comments_classification](https://github.com/dankadyrov/Portfolio/tree/main/toxic_comments_classification)  |  Классифицикая токсичных комментариев пользователей с BERT |   |   |
+| Классифицикая токсичных комментариев  | [toxic_comments_classification](https://github.com/dankadyrov/Portfolio/tree/main/toxic_comments_classification)  |  Классифицикая токсичных комментариев пользователей с BERT |   |   |
