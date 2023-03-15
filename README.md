@@ -10,3 +10,4 @@
 | Отток клиентов  | [churn_classification](https://github.com/dankadyrov/Portfolio/tree/main/churn_classification)  |  Предсказание оттока клиентов телефонной компании |   |   |
 | Детекция масок | [face_mask_detection](https://github.com/dankadyrov/Portfolio/tree/main/face_mask_detection)  |  Детекция людей с масками на изображении SSD300 |   |   |
 | Классифицикая токсичных комментариев  | [toxic_comments_classification](https://github.com/dankadyrov/Portfolio/tree/main/toxic_comments_classification)  |  Классифицикая токсичных комментариев пользователей с BERT |   |   |
+| Распознование капчи | [captcha_recognition](https://github.com/dankadyrov/Portfolio/tree/main/captcha_recognition)| Распознование тектовой капчи по картинкам с использование CRNN | | |
