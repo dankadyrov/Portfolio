@@ -20,4 +20,4 @@
 | Классифицикая токсичных комментариев  | [toxic_comments_classification](https://github.com/dankadyrov/Portfolio/tree/main/toxic_comments_classification)  |  Классифицикая токсичных комментариев пользователей с BERT |
 | Предсказание вызовов такси  | [taxi_timeseries](https://github.com/dankadyrov/Portfolio/tree/main/taxi_timeseries)  |  Предсказание временного ряда количества вызова такси в данной точке |
 | Отток клиентов  | [churn_classification](https://github.com/dankadyrov/Portfolio/tree/main/churn_classification)  |  Предсказание оттока клиентов телефонной компании |
-| Uplift X5  | [uplift](https://github.com/dankadyrov/Portfolio/tree/main/toxic_comments_classification)  |  Uplift modeling на данных X5 Retail Group |
+| Uplift X5  | [uplift_x5](https://github.com/dankadyrov/Portfolio/tree/main/uplift_x5)  |  Uplift modeling на данных X5 Retail Group |
