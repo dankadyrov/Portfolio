@@ -10,6 +10,7 @@
 | Сегментация на ADDI project  | [first_segmentation](https://github.com/dankadyrov/Portfolio/tree/main/first_segmentation)  |  Сегментация двух видов поражений кожи на датасете ADDI project с помощью SegNet и UNet |
 | Детекция масок | [face_mask_detection](https://github.com/dankadyrov/Portfolio/tree/main/face_mask_detection)  |  Детекция людей с масками на изображении SSD300 |
 | Распознование капчи | [captcha_recognition](https://github.com/dankadyrov/Portfolio/tree/main/captcha_recognition)| Распознование тектовой капчи по картинкам с использование CRNN |
+| Классификация голоса  | [yandex_voice_classification](https://github.com/dankadyrov/Portfolio/tree/main/yandex_voice_classification)  | Классификация пола говорящего по фразе  |
 | Классифицикая токсичных комментариев  | [toxic_comments_classification](https://github.com/dankadyrov/Portfolio/tree/main/toxic_comments_classification)  |  Классифицикая токсичных комментариев пользователей с BERT |
 
 ## Classic ML
